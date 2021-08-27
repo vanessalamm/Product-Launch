@@ -91,7 +91,7 @@ LinkedIn is trying to expand its job market offerings by creating an app that wi
 
 Post-launch data
 
-![image](https://user-images.githubusercontent.com/89614755/131056207-4034fdfe-082c-40b1-86bc-e916d9c8a706.png).md
+![image](https://user-images.githubusercontent.com/89614755/131056207-4034fdfe-082c-40b1-86bc-e916d9c8a706.png)
 
 Field Feedback:
 After launching your product, you notice that the adoption rate is lower than you expected (about 35%). How would you investigate the reasons and suggest potential solutions?
